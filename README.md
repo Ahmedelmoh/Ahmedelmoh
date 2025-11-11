@@ -28,9 +28,9 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🎓 B.Sc. in Artificial Intelligence Science @ Alamein International University  
-- 🧩 Passionate about **AI, Deep Learning, and NLP**  
-- 💡 Experienced in **Full Stack Development (FastAPI, Flask, PHP)**  
-- 🚀 Currently learning **Backend Development using PHP**  
+- 🧩 Passionate about *AI, Deep Learning, and NLP*  
+- 💡 Experienced in *Full Stack Development (FastAPI, Flask, PHP)*  
+- 🚀 Currently learning *Backend Development using PHP*  
 - 🌍 Based in Egypt | Open to Remote Opportunities  
 - 🎯 Motto: “Keep Learning, Keep Innovating.”  
 - ⚡ Fun fact: I love creating AR/VR experiences that bring history to life!  
@@ -39,38 +39,38 @@
 
 <h2 align="left">🚀 Highlight Projects:</h2>
 
-- 🏛️ **Smart Tour Guide System (Fos7tk)**  
+- 🏛 *Smart Tour Guide System (Fos7tk)*  
   AR/VR-powered mobile app that brings Egyptian monuments to life with interactive 3D stories.  
-  → *Technologies:* Unity, ARCore, Firebase  
+  → Technologies: Unity, ARCore, Firebase  
 
-- 🤖 **AI-Powered Technical Support Chatbot**  
+- 🤖 *AI-Powered Technical Support Chatbot*  
   NLP-driven chatbot using Llama 3 + FAISS with multilingual support (English/Arabic).  
-  → *Tech Stack:* Flask, Groq API, FAISS, Hugging Face  
+  → Tech Stack: Flask, Groq API, FAISS, Hugging Face  
 
-- 💼 **AI Startup Strategy Assistant**  
+- 💼 *AI Startup Strategy Assistant*  
   GPT-4-based FastAPI/PHP platform that generates business plans, KPIs, and workflows.  
-  → *Tech Stack:* FastAPI, PHP, PostgreSQL, Notion API  
+  → Tech Stack: FastAPI, PHP, PostgreSQL, Notion API  
 
-- 🧠 **Microservices Platform**  
+- 🧠 *Microservices Platform*  
   Multi-service architecture for translation, summarization, and user management.  
-  → *Tech Stack:* Flask, FastAPI, Docker, PostgreSQL  
+  → Tech Stack: Flask, FastAPI, Docker, PostgreSQL  
 
-- 🧍‍♂️ **Face Recognition System**  
+- 🧍‍♂ *Face Recognition System*  
   Built with Python & OpenCV to detect, track, and log faces in real time.  
-  → *Tech Stack:* OpenCV, NumPy, SQLite3  
+  → Tech Stack: OpenCV, NumPy, SQLite3  
 
 ---
 
 <h2 align="left">📜 Certifications:</h2>
 
-- AI Coding Academy – *AI Course (ML, DL)*  
-- Coursera – *Natural Language Processing in TensorFlow*  
-- Coursera – *Deep Neural Networks with PyTorch*  
-- Coursera – *Databases and SQL for Data Science with Python*  
+- AI Coding Academy – AI Course (ML, DL)  
+- Coursera – Natural Language Processing in TensorFlow  
+- Coursera – Deep Neural Networks with PyTorch  
+- Coursera – Databases and SQL for Data Science with Python  
 
 ---
 
-<h2 align="center">❤️ Let's Get Connected</h2>
+<h2 align="center">❤ Let's Get Connected</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-elmohamady/"><img src="https://img.shields.io/badge/-Ahmed%20Elmohamady-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
