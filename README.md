@@ -76,6 +76,8 @@
 <a href="https://www.linkedin.com/in/ahmed-elmohamady/"><img src="https://img.shields.io/badge/-Ahmed%20Elmohamady-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/Ahmedelmoh"><img src="https://img.shields.io/badge/-Ahmedelmoh-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:ahmedelmohamady248@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmed_elmohmady3/"><img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/ahmed.elmohamady.9210"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
