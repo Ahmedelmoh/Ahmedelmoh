@@ -55,7 +55,7 @@
 <!-- Custom static bar showing personalized percentages -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-700%25-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-70%25-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
