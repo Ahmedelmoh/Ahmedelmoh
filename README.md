@@ -17,7 +17,7 @@
 ---
 
 ### 👋 Hi, I'm Ahmed Elmohamady  
-🎓 Bachelor's in Artificial Intelligence Science, Alamein International University  
+🎓 Bachelor's in Artificial Intelligence Science @Alamein International University  
 💻 **AI Engineer & Full Stack Developer** skilled in machine learning, NLP, computer vision, and backend systems.  
 🔍 Experienced in developing intelligent, scalable apps using **Python, FastAPI, Flask, and PHP**.  
 🚀 Currently learning **Backend Development with PHP & Laravel**.  
@@ -64,29 +64,6 @@
 
 ---
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
-<br>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Ahmedelmoh/Smart-Tour-Guide-System" title="Smart Tour Guide System">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=Smart-Tour-Guide-System&theme=radical&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Ahmedelmoh/AI-Powered-Chatbot" title="AI Chatbot">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=AI-Powered-Chatbot&theme=radical&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Ahmedelmoh/Microservices-Platform" title="Microservices Platform">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=Microservices-Platform&theme=radical&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Ahmedelmoh/Face-Recognition-System" title="Face Recognition System">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=Face-Recognition-System&theme=radical&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
 <h4 align="center">
-  <a href="https://github.com/Ahmedelmoh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Ahmedelmoh?tab=repositories" title="Show Repositories">👨‍💻 Featured Projects 👨‍💻</a>
 </h4>
