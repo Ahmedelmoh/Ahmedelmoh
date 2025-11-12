@@ -1,93 +1,92 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Ahmed Elmohamady</span> 🤖</h1>
-<h3 align="center">AI Engineer | Full Stack Developer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Elmohamady....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/ahmed-elmohamady"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/ahmed_elmohmady3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/ahmed.elmohamady.9210"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://github.com/Ahmedelmoh"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="mailto:ahmedelmohamady248@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</h5>
+
+---
+
+### 👋 Hi, I'm Ahmed Elmohamady  
+🎓 Bachelor's in Artificial Intelligence Science, Alamein International University  
+💻 **AI Engineer & Full Stack Developer** skilled in machine learning, NLP, computer vision, and backend systems.  
+🔍 Experienced in developing intelligent, scalable apps using **Python, FastAPI, Flask, and PHP**.  
+🚀 Currently learning **Backend Development with PHP & Laravel**.  
+💬 Ask me anything [here](https://github.com/Ahmedelmoh/Ahmedelmoh/issues)  
+📫 Reach me: **ahmedelmohamady248@gmail.com** | 🌍 Egypt  
+
+---
+
+## 🧠 Languages, Frameworks & Tools  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="left">🧠 Technologies and Tools I Use:</h2>
-<p align="left">
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-    <a href="https://pytorch.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-    <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
-</p>
-
----
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- 🎓 B.Sc. in Artificial Intelligence Science @ Alamein International University  
-- 🧩 Passionate about *AI, Deep Learning, and NLP*  
-- 💡 Experienced in *Full Stack Development (FastAPI, Flask, PHP)*  
-- 🚀 Currently learning *Backend Development using PHP*  
-- 🌍 Based in Egypt | Open to Remote Opportunities  
-- 🎯 Motto: “Keep Learning, Keep Innovating.”  
-- ⚡ Fun fact: I love creating AR/VR experiences that bring history to life!  
-
----
-
-<h2 align="left">🚀 Highlight Projects:</h2>
-
-- 🏛 *Smart Tour Guide System (Fos7tk)*  
-  AR/VR-powered mobile app that brings Egyptian monuments to life with interactive 3D stories.  
-  → Technologies: Unity, ARCore, Firebase  
-
-- 🤖 *AI-Powered Technical Support Chatbot*  
-  NLP-driven chatbot using Llama 3 + FAISS with multilingual support (English/Arabic).  
-  → Tech Stack: Flask, Groq API, FAISS, Hugging Face  
-
-- 💼 *AI Startup Strategy Assistant*  
-  GPT-4-based FastAPI/PHP platform that generates business plans, KPIs, and workflows.  
-  → Tech Stack: FastAPI, PHP, PostgreSQL, Notion API  
-
-- 🧠 *Microservices Platform*  
-  Multi-service architecture for translation, summarization, and user management.  
-  → Tech Stack: Flask, FastAPI, Docker, PostgreSQL  
-
-- 🧍‍♂ *Face Recognition System*  
-  Built with Python & OpenCV to detect, track, and log faces in real time.  
-  → Tech Stack: OpenCV, NumPy, SQLite3  
-
----
-
-<h2 align="left">📜 Certifications:</h2>
-
-- AI Coding Academy – AI Course (ML, DL)  
-- Coursera – Natural Language Processing in TensorFlow  
-- Coursera – Deep Neural Networks with PyTorch  
-- Coursera – Databases and SQL for Data Science with Python  
-
----
-
-<h2 align="center">❤ Let's Get Connected</h2>
-
+## ⚡ Stats ⚡
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-elmohamady/"><img src="https://img.shields.io/badge/-Ahmed%20Elmohamady-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/Ahmedelmoh"><img src="https://img.shields.io/badge/-Ahmedelmoh-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:ahmedelmohamady248@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmed_elmohmady3/"><img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ahmed.elmohamady.9210"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Ahmedelmoh&theme=react&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmedelmoh&show_icons=true&theme=react&hide_border=true&border_radius=10" />
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedelmoh&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelmoh&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelmoh&layout=compact&theme=react&hide_border=true&border_radius=10" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedelmoh&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-<h3 align="center">✨ “Building the Future with AI & Code.” ✨</h3>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedelmoh&theme=react&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Ahmedelmoh/Smart-Tour-Guide-System" title="Smart Tour Guide System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=Smart-Tour-Guide-System&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Ahmedelmoh/AI-Powered-Chatbot" title="AI Chatbot">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=AI-Powered-Chatbot&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Ahmedelmoh/Microservices-Platform" title="Microservices Platform">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=Microservices-Platform&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Ahmedelmoh/Face-Recognition-System" title="Face Recognition System">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelmoh&repo=Face-Recognition-System&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Ahmedelmoh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
