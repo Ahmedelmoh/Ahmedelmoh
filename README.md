@@ -9,15 +9,13 @@
   <a href="https://www.instagram.com/ahmed_elmohmady3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/ahmed.elmohamady.9210"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://github.com/Ahmedelmoh"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="mailto:ahmedelmohamady248@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="mailto:ahmedelmohamady248@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </h5>
 
 ---
 
 ### 👋 Hi, I'm Ahmed Elmohamady  
-🎓 Bachelor's in Artificial Intelligence Science @Alamein International University  
+🎓 Bachelor's in Artificial Intelligence Science @ Alamein International University  
 💻 **AI Engineer & Full Stack Developer** skilled in machine learning, NLP, computer vision, and backend systems.  
 🔍 Experienced in developing intelligent, scalable apps using **Python, FastAPI, Flask, and PHP**.  
 🚀 Currently learning **Backend Development with PHP & Laravel**.  
@@ -48,9 +46,22 @@
   <img width="49%" src="https://streak-stats.demolab.com/?user=Ahmedelmoh&theme=react&hide_border=true&border_radius=10" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmedelmoh&show_icons=true&theme=react&hide_border=true&border_radius=10" />
 </p>
+
+<h3 align="center">📊 Most Used Languages</h3>
+
 <p align="center">
   <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelmoh&layout=compact&theme=react&hide_border=true&border_radius=10" />
 </p>
+
+<!-- Custom static bar showing personalized percentages -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-700%25-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-70%25-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedelmoh&theme=react-dark&hide_border=true" width="100%"/>
 </p>
