@@ -47,7 +47,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmedelmoh&show_icons=true&theme=react&hide_border=true&border_radius=10" />
 </p>
 
-<h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
   <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelmoh&layout=compact&theme=react&hide_border=true&border_radius=10" />
